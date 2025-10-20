@@ -19,6 +19,12 @@ Before you start, make sure you have the following installed 👇
 - 🔑 GitHub CLI or browser authentication  
 
 ## 📦 Setup Instructions
+🔐 Configure Git Identity (Recommended for First-Time Setup)
+Before committing changes, Git needs to know who you are. Set your global identity using:
+```bash
+git config --global user.name "github usernname"
+git config --global user.email "your-email@example.com"
+```
 
 ### 🌀 Case 1: Clone an Existing Repository
 

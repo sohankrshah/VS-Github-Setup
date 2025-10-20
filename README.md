@@ -110,5 +110,5 @@ Feel free to fork, improve, and open a pull request. Let’s make development sm
 
 ## 💬 Developer Motto
 ```
-> “Code. Commit. Push. Repeat.” 🔁  
-> Keep coding, keep creating, and keep contributing 💪```
+ “Code. Commit. Push. Repeat.” 🔁
+ Keep coding, keep creating, and keep contributing 💪
